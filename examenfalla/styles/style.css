@@ -1,0 +1,57 @@
+.clear{
+    clear: both;
+}
+
+body{
+    font-family: open s
+}
+
+.Titulo{
+    color:darkorchid;
+    text-align: center;
+}
+
+.caja11{
+    padding: 50px;
+    margin: 100px;
+    width: 400px;
+    height: 350px;
+    float: left;
+    border: black 5px dashed;
+}
+
+.caja11, image{
+    text-align: center;
+}
+
+.caja112{
+    padding: 50px;
+    margin: 100px;
+    width: 400px;
+    height: 350px;
+    float: center;
+    border: black 5px dashed;
+    margin-left: 600px;
+}
+
+.caja112, image{
+    text-align: center;
+}
+
+.caja113{
+    padding: 50px;
+    margin: 100px;
+    width: 400px;
+    height: 350px;
+    float: right;
+    border: black 5px dashed;
+}
+
+.caja113, image{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: darkorchid;
+}
